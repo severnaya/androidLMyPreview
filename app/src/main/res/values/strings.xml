@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="bacon_ipsum">
+        Bacon ipsum dolor sit amet venison shankle pork chop meatball tri-tip beef ribs turducken.
+        Strip steak ball tip boudin shank, turducken leberkas pork chop beef ribs ham hock sausage
+        frankfurter prosciutto doner ham. Bacon landjaeger ball tip, andouille chuck beef ribs jowl
+        kevin tri-tip turkey biltong frankfurter sausage. Boudin pork belly meatloaf chicken cow
+        tri-tip kielbasa shoulder. Pork loin pig boudin hamburger pastrami short ribs. Sirloin
+        tongue pork loin chicken spare ribs bresaola pastrami.\n\n
+        Tenderloin turducken pork chop, pork belly beef ribs brisket ham. Turducken landjaeger short
+        loin capicola pancetta pork chop strip steak rump meatloaf brisket kevin doner short ribs
+        salami. Beef prosciutto flank leberkas landjaeger swine. Fatback prosciutto sausage, jerky
+        tail tongue hamburger jowl biltong shank pork belly swine filet mignon chicken ground round.
+        Pork chop porchetta ground round tri-tip tail t-bone.\n\n
+        Landjaeger rump bacon salami sausage pork loin pig brisket strip steak corned beef. Biltong
+        sirloin meatloaf ribeye, bresaola cow chicken t-bone frankfurter andouille strip steak jerky
+        capicola. Ribeye porchetta strip steak boudin. Kielbasa cow brisket pastrami ball tip
+        tenderloin bresaola ham. Biltong andouille chuck ham hock jerky beef chicken, flank shankle
+        ball tip venison porchetta kevin fatback kielbasa. Boudin tongue ground round, turkey pork
+        belly salami corned beef pork tri-tip meatloaf sausage andouille strip steak pig. Spare ribs
+        beef meatloaf rump sausage doner frankfurter.\n\n
+        Fatback porchetta pork loin meatball, turducken pork chop drumstick boudin. Kevin tri-tip
+        ground round corned beef, ribeye swine filet mignon salami pork spare ribs pork chop
+        brisket. Filet mignon shankle t-bone bacon. Turducken capicola turkey porchetta kielbasa
+        shank pork loin jerky venison tenderloin boudin ham hock ground round.</string>
+
+    <string name="image_header">%1$s by %2$s</string>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <string-array name="feature_array">
+        <item>Card View</item>
+        <item>Activity Scene Transition Basic</item>
+        <item>Basic Managed Profile</item>
+        <item>Elevation Basic</item>
+        <item>Elevation Drop</item>
+        <item>Clipping Basic</item>
+        <item>Job Service</item>
+    </string-array>
+
+
+    <string name="setup_profile_message">This app is currently not a profile owner.</string>
+    <string name="set_up_profile">Set up profile</string>
+    <string name="enable_forwarding">Enable forwarding of Share Intent</string>
+    <string name="send_intent_text">Send a sample share Intent</string>
+    <string name="disable_forwarding">Disable forwarding</string>
+    <string name="main_message">The app is ready to control the managed profile.</string>
+    <string name="remove_profile">Remove managed profile</string>
+    <string name="all_done">Setup all done</string>
+    <string name="all_done_explanation">To manage the configuration in your managed profile, visit the badged version of this application.</string>
+    <string name="toggle_calculator">Calculator in this profile: </string>
+    <string name="toggle_chrome">Chrome in this profile:</string>
+    <string name="set_chrome_restrictions">Set Chrome restrictions</string>
+    <string name="icon">Icon</string>
+
+    <string name="clip_button">Clip</string>
+    <string name="unclip_button">Remove Clipping</string>
+
+    <string-array name="sample_texts">
+        <item>Lorem ipsum dolor sit amet, duo numquam nominavi consectetuer at.</item>
+        <item>Vivendo philosophia mea et. Duo te idque appetere.</item>
+        <item>De finibus bonorum et malorum.</item>
+    </string-array>
+
+
+    <string name="onstoptask">onStopTask</string>
+    <string name="onstarttask">onStartTask</string>
+    <string name="defaultparamtext">task params will show up here.</string>
+    <string name="schedule_job_button_text">Schedule Job</string>
+    <string name="cancel_all_jobs_button_text">Cancel all</string>
+    <string name="finish_job_button_text">taskFinished</string>
+    <string name="idle_mode_text">Requires device in idle mode.</string>
+    <string name="charging_caption">Charging:</string>
+    <string name="charging_text">Requires device plugged in.</string>
+    <string name="idle_caption">Idle:</string>
+    <string name="constraints">Constraints</string>
+    <string name="connectivity">Connectivity:</string>
+    <string name="any">Any</string>
+    <string name="unmetered">WiFi</string>
+    <string name="timing">Timing:</string>
+    <string name="delay">Delay:</string>
+    <string name="deadline">Deadline:</string>
+
+    <string name="picture">Picture</string>
+    <string name="description_info">Info</string>
+
+    <string name="record">Record</string>
+    <string name="stop">Stop</string>
+
+    <string name="shot_info_homer">Homer Simpson</string>
+    <string name="info_homer">Homer Jay Simpson is a cartoon character in the animated television series The Simpsons as the patriarch of the eponymous family. </string>
+    <string name="title_homer">Homer Simpson</string>
+
+</resources>

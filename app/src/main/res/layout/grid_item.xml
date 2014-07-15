@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content">
+
+    <com.shurpo.myapplication.app.activtyscenetransitionbasic.SquareFrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        <com.android.volley.toolbox.NetworkImageView
+                android:id="@+id/imageview_item"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="centerCrop"/>
+    </com.shurpo.myapplication.app.activtyscenetransitionbasic.SquareFrameLayout>
+
+    <TextView android:id="@+id/textview_name"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:background="?android:attr/colorPrimary"
+              android:theme="@android:style/Theme.Material"
+              android:gravity="center"
+              android:textAppearance="@android:style/TextAppearance.Material.Subhead"
+              android:maxLines="1"
+              android:padding="16dp"/>
+
+</LinearLayout>

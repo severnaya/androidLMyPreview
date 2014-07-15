@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <FrameLayout
+            android:id="@+id/clipping_frame"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/gradient_drawable"
+            android:foreground="?android:attr/selectableItemBackground"
+            android:addStatesFromChildren="true"
+            android:layout_above="@+id/clipping_button" >
+        <TextView
+                android:id="@+id/clipping_text_view"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="26sp"
+                android:textColor="@android:color/white"
+                android:layout_marginLeft="64dp"
+                android:layout_marginRight="64dp"
+                android:gravity="center" />
+    </FrameLayout>
+
+    <Button
+            android:id="@+id/clipping_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/clip_button"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="8dp"
+            android:layout_marginTop="8dp"/>
+</RelativeLayout>
